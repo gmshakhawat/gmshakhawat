@@ -3,6 +3,5 @@
 - 🌱 I’m currently learning Java Spring Boot
 
 
-- 📫 How to reach me -> shakhawat@softrear.com
-
+- 📫 How to reach me -> shakhawatislam96@gmail.com
 
